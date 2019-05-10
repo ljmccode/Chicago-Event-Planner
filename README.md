@@ -5,7 +5,7 @@ The goal of this application is to create a convenient travel planner for our us
 
 If the user sees an event or restaurant they like, they can click of the favorites button, which will save the details of the event or restaurant in a table below for future reference.
 
-### Languages and Tools used
+### Languages and Tools Used
 * HTML
 * CSS
 * Javascript
