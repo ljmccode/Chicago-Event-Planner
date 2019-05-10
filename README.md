@@ -9,6 +9,7 @@ If the user sees an event or restaurant they like, they can click of the favorit
 * HTML
 * CSS
 * Javascript
+* jQuery
 * Bootstrap
 * APIs
 * AJAX calls
