@@ -13,5 +13,5 @@ If the user sees an event or restaurant they like, they can click of the favorit
 * Bootstrap
 * APIs
 * AJAX calls
-* Momemt.js
+* Moment.js
 * User Input Validation
